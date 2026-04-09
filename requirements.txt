@@ -1,0 +1,8 @@
+pyrogram==2.0.106
+tgcrypto==1.2.5
+motor==3.3.2
+pymongo[srv]==4.6.1
+dnspython==2.4.2
+pytz==2024.1
+openpyxl==3.1.2
+apscheduler==3.10.4
